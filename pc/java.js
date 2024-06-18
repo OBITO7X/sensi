@@ -1,13 +1,14 @@
 const data = [
-    { imgsrc: 'image/p1.jpeg',Video:'video/mod_view.mp4',features: ['Drag Headshot','One Time Apply','Unable To By(By Checking)','Fully AI Control','100% No Ban Issue(Even Patch)','Android & IOS']},
+     { imgsrc: 'image/p1.jpeg',Video:'video/mod_view.mp4',features: ['Drag Headshot','One Time Apply','Unable To By(By Checking)','Fully AI Control','100% No Ban Issue(Even Patch)','Android & IOS']},
      {imgsrc: 'image/p2.jpeg',Video:'video/P2.png',features: [' CUSTOM REGEDIT','EMULATORS','FPS LOCK UPTP 160','EMU SETTINGS','MONITOR FIX','LESS RECOIL REGEDIT','2X SECRET','PREMIUM TWEAKS']},
     {imgsrc: 'image/DLL.jpg',Video:'video/mod_view.mp4',features: ['DLL INJECT PANELL','FULLY HIDDEN IN STREAM','NO LOGIN PAGE','100%ANTIBAN','CUSTOMIZE HOTKEY FEATURES','NOBODY CAN FIND PANEL IN PC CHECK','AIMBOT DRAG','SNIPER SCOPE','TRANSPARENT LOCATION']},
     {imgsrc: 'image/p3.png',Video:'video/mod_view.mp4',features: [' ᴀɪᴍʟᴏᴄᴋ ʀᴇɢ ᴇᴅɪᴛ ᴘᴀʀᴀ ꜱᴇɴꜱɪ','• ᴀɴᴛɪʙᴀɴ & ᴀɴᴛɪʙʟᴀᴄᴋʟɪꜱᴛ','• ᴀɪᴍʟᴏᴄᴋ','• ᴀɪᴍʟᴏᴄᴋ','ɴᴏʀᴍᴀʟ ꜱᴄʀᴏᴘᴇ ᴀɪᴍ','• ᴀʟᴏᴋ ꜰɪx']},
     {imgsrc: 'image/p5.png',Video:'video/mod_view.mp4',features: ['REDWIN EMULATORS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
     {imgsrc: 'image/p4.jpg',Video:'video/mod_view.mp4',features: ['ULTRA EGO FPS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
-     {imgsrc: 'image/P6.jpg',Video:'video/mod_view.mp4',features: ['E4VX EMULATORS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
-      {imgsrc: 'image/p7.jpg',Video:'video/mod_view.mp4',features:  ['REG','ONE TAP 99%','AIMLOCK','80%NO RECOIL','SMOOTH AIM ','NO aim shake','ZOROX EYE','FREESTYLE SENSI','LEAGAL AIMBOT']},
-      {imgsrc: 'image/c3.jpg',Video:'video/mod_view.mp4',features:  ['REG',ONE TAP 99%','AIMLOCK','80%NO RECOIL','SMOOTH AIM ','NO aim shake','ZOROX EYE','FREESTYLE SENSI','LEAGAL AIMBOT']},
+    {imgsrc: 'image/P6.jpg',Video:'video/mod_view.mp4',features: ['E4VX EMULATORS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
+     {imgsrc: 'image/p7.jpg',Video:'video/mod_view.mp4',features:  ['REG','ONE TAP 99%','AIMLOCK','80%NO RECOIL','SMOOTH AIM ','NO aim shake','ZOROX EYE','FREESTYLE SENSI','LEAGAL AIMBOT']},
+     {imgsrc: 'image/c3.jpg',Video:'video/mod_view.mp4',features:  ['REG','ONE TAP 99%','AIMLOCK','80%NO RECOIL','SMOOTH AIM ','NO aim shake','ZOROX EYE','FREESTYLE SENSI','LEAGAL AIMBOT']},
+
 
 
 
