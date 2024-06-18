@@ -6,7 +6,8 @@ const data = [
     {imgsrc: 'image/p5.png',Video:'video/mod_view.mp4',features: ['REDWIN EMULATORS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
     {imgsrc: 'image/p4.jpg',Video:'video/mod_view.mp4',features: ['ULTRA EGO FPS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
      {imgsrc: 'image/P6.jpg',Video:'video/mod_view.mp4',features: ['E4VX EMLUATORS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
-      {imgsrc: 'image/p7.jpg',Video:'video/mod_view.mp4',features: ['PAID REG','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
+      {imgsrc: 'image/p7.jpg',Video:'video/mod_view.mp4',features: ['PAID REG','','ONETAP 99%','AIMLOCK80%','NO aim shake','80%NO RECOIL','LEAGAL AIMBOT','SMOOTH AIM']},
+      {imgsrc: 'image/p8.jpg',Video:'video/mod_view.mp4',features: ['PAID REG','','ONETAP 99%','AIMLOCK80%','NO aim shake','80%NO RECOIL','LEAGAL AIMBOT','SMOOTH AIM']},
 
 
 
