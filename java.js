@@ -4,8 +4,6 @@ const data = [
     {imgsrc: 'image/p3.png',Video:'video/p4.jpeg',features: ['• SENSI-UPGRADE','• PREMIUM-SETEDIT','• Movement_Speed_Smooth','• Less Recoil Regedit','• PREMIUM APPS','* X,Y Fileds']},
     {imgsrc: 'image/p4.png',Video:'video/p2.mp4',features: ['• Drag Headshot 3.0 ','• One Time Apply','• Unable To By(By Checking)','• Fully AI Control','• 100% No Ban Issue(Even Patch)','• Android & IOS']},
     {imgsrc: 'image/op.jpg',features: ['* Custom Regedit','* Emulators','* FPS lock upto 160','* Less Recoil Regedit','* Premium Tweaks','* X,Y Fileds']},
-    {imgsrc: 'image/p5.jpg',features: ['* Custom Regedit','* Emulators','* FPS lock upto 160','* Less Recoil Regedit','* Premium Tweaks','* X,Y Fileds']},
-    {imgsrc: 'image/p7.jpg',features: ['* Custom Regedit','* Emulators','* FPS lock upto 160','* Less Recoil Regedit','* Premium Tweaks','* X,Y Fileds']},
     ]
 
  
