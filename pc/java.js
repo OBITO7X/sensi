@@ -6,7 +6,8 @@ const data = [
     {imgsrc: 'image/p5.png',Video:'video/mod_view.mp4',features: ['REDWIN EMULATORS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
     {imgsrc: 'image/p4.jpg',Video:'video/mod_view.mp4',features: ['ULTRA EGO FPS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
      {imgsrc: 'image/p6.jpg',Video:'video/mod_view.mp4',features: ['ULTRA EGO FPS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
-      {imgsrc: 'image/p7.jpg',Video:'video/mod_view.mp4',features: ['ULTRA EGO FPS','Best paid emulator','red win runs smooth on low end pc','red win give dtable FBS 160','NO aim shake','no crash',]},
+      {imgsrc: 'image/p7.jpg',Video:'video/mod_view.mp4',features:  ['ONE TAP 99%','AIMLOCK','80%NO RECOIL','SMOOTH AIM ','NO aim shake','ZOROX EYE','FREESTYLE SENSI','LEAGAL AIMBOT']},
+      {imgsrc: 'image/c3.jpg',Video:'video/mod_view.mp4',features:  ['ONE TAP 99%','AIMLOCK','80%NO RECOIL','SMOOTH AIM ','NO aim shake','ZOROX EYE','FREESTYLE SENSI','LEAGAL AIMBOT']},
 
 
 
